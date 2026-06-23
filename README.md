@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikashsumit
+👋 Hi, I’m @vikashsumit
   
 <!---
 vikashsumit/vikashsumit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
